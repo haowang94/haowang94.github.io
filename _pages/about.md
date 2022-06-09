@@ -16,17 +16,17 @@ Before joining Harvard University, I received my B.S. degree in Mathematics and 
 Publication
 ======
 
-- <font color="brickred">Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values</font> <br />
+- <font color=#DC143C>Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values</font> 
  Haewon Jeong, <b>Hao Wang</b>, Flavio P. Calmon.<br />
  AAAI Conference on Artificial Intelligence (AAAI), 2022. [Paper](https://haowang94.github.io/files/aaai22.pdf) 
  
  
-- <font color="BrickRed">Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values</font> <br />
+- <font color="#DC143C">Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values</font>
  Haewon Jeong, <b>Hao Wang</b>, Flavio P. Calmon.<br />
  AAAI Conference on Artificial Intelligence (AAAI), 2022. [Paper](https://haowang94.github.io/files/aaai22.pdf) 
 
 
-- <font color="crimson">Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values</font> <br />
+- <font color="crimson">Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values</font>
  Haewon Jeong, <b>Hao Wang</b>, Flavio P. Calmon.<br />
  AAAI Conference on Artificial Intelligence (AAAI), 2022. [Paper](https://haowang94.github.io/files/aaai22.pdf) 
 
