@@ -16,7 +16,7 @@ Before joining Harvard University, I received my B.S. degree in Mathematics and 
 Publication
 ======
 - <b>Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values</b>.       
- Haewon Jeong, <b>Hao Wang</b>, Flavio P. Calmon. 
+ Haewon Jeong, <b>Hao Wang</b>, Flavio P. Calmon.\\
  AAAI Conference on Artificial Intelligence (AAAI) 2022. [Paper](https://haowang94.github.io/files/aaai22.pdf) 
 
 - <b>Analyzing the Generalization Capability of SGLD Using Properties of Gaussian Channels</b>.       
