@@ -11,9 +11,6 @@ I am currently a 6th year PhD candidate in Applied Mathematics of the School of 
 
 Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics from the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
 
-<font color="DarkRed">[A](https://haowang94.github.io/files/CV.pdf)</font>
-<font color="DarkRed">[[A]](https://haowang94.github.io/files/CV.pdf)</font>
-
 [My CV](https://haowang94.github.io/files/CV.pdf)
 
 Publication
@@ -40,8 +37,8 @@ Publication
  IEEE International Symposium on Information Theory (ISIT), 2020. [Paper](https://haowang94.github.io/files/isit20.pdf)
  
 - <font color="DarkRed">On the Robustness of Information-Theoretic Privacy Measures and Mechanisms</font>  
- Mario Diaz*, <b>Hao Wang*</b>, Flavio P. Calmon, Lalitha Sankar.<br />
- IEEE Transactions on Information Theory, 2020. *Equal Contribution [Paper](https://haowang94.github.io/files/tit20.pdf)
+ Mario Diaz*, <b>Hao Wang*</b>, Flavio P. Calmon, Lalitha Sankar. *Equal Contribution<br />
+ IEEE Transactions on Information Theory, 2020. [Paper](https://haowang94.github.io/files/tit20.pdf)
 
 - <font color="DarkRed">An Information-Theoretic View of Generalization via Wasserstein Distance</font>   
  <b>Hao Wang</b>, Mario Diaz, José Cândido S. Santos Filho, Flavio P. Calmon.<br />
