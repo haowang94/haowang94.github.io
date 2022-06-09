@@ -15,11 +15,11 @@ Before joining Harvard University, I received my B.S. degree in Mathematics and 
 
 Publication
 ======
-- <p style="color:crimson">Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values.
+- <p style="color:crimson">Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values</p>
  Haewon Jeong, <b>Hao Wang</b>, Flavio P. Calmon.<br />
  AAAI Conference on Artificial Intelligence (AAAI), 2022. [Paper](https://haowang94.github.io/files/aaai22.pdf) 
 
-- <b>Analyzing the Generalization Capability of SGLD Using Properties of Gaussian Channels</b>.       
+- <p style="color:crimson">Analyzing the Generalization Capability of SGLD Using Properties of Gaussian Channels</p>   
  <b>Hao Wang</b>, Yizhe Huang, Rui Gao, Flavio P. Calmon.<br />
  Advances in Neural Information Processing Systems (NeurIPS), 2021. [Paper](https://haowang94.github.io/files/neurips21.pdf) 
 
