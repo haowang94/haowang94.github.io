@@ -11,6 +11,9 @@ I am currently a 6th year PhD candidate in Applied Mathematics of the School of 
 
 Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics from the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
 
+<font color="DarkRed">[A](https://haowang94.github.io/files/CV.pdf)</font>
+<font color="DarkRed">[[A]](https://haowang94.github.io/files/CV.pdf)</font>
+
 [My CV](https://haowang94.github.io/files/CV.pdf)
 
 Publication
@@ -41,27 +44,27 @@ Publication
  IEEE Transactions on Information Theory, 2020. *Equal Contribution [Paper](https://haowang94.github.io/files/tit20.pdf)
 
 - <font color="DarkRed">An Information-Theoretic View of Generalization via Wasserstein Distance</font>   
- <b>Hao Wang*</b>, Mario Diaz, José Cândido S. Santos Filho, Flavio P. Calmon.<br />
+ <b>Hao Wang</b>, Mario Diaz, José Cândido S. Santos Filho, Flavio P. Calmon.<br />
  IEEE International Symposium on Information Theory (ISIT), 2019. [Paper](https://haowang94.github.io/files/isit19.pdf)
  
 - <font color="DarkRed">Privacy with Estimation Guarantees</font> 
- <b>Hao Wang*</b>, Lisa Vo, Flavio P. Calmon, Muriel Médard, Ken R. Duffy, Mayank Varia.<br />
+ <b>Hao Wang</b>, Lisa Vo, Flavio P. Calmon, Muriel Médard, Ken R. Duffy, Mayank Varia.<br />
  IEEE Transactions on Information Theory, 2019. [Paper](https://haowang94.github.io/files/tit19.pdf)
  
 - <font color="DarkRed">Repairing without Retraining: Avoiding Disparate Impact with Counterfactual Distributions</font>   
- <b>Hao Wang*</b>, Berk Ustun, Flavio P. Calmon.<br />
+ <b>Hao Wang</b>, Berk Ustun, Flavio P. Calmon.<br />
  International Conference on Machine Learning (ICML), 2019. [Paper](https://haowang94.github.io/files/icml19.pdf)
  
 - <font color="DarkRed">On the Direction of Discrimination: An Information-Theoretic Analysis of Disparate Impact in Machine Learning</font>    
- <b>Hao Wang*</b>, Berk Ustun, Flavio P. Calmon.<br />
+ <b>Hao Wang</b>, Berk Ustun, Flavio P. Calmon.<br />
  IEEE International Symposium on Information Theory (ISIT), 2018. [Paper](https://haowang94.github.io/files/isit18a.pdf)
  
 - <font color="DarkRed">The Utility Cost of Robust Privacy Guarantees</font>      
- <b>Hao Wang*</b>, Mario Diaz, Flavio P. Calmon, Lalitha Sankar.<br />
+ <b>Hao Wang</b>, Mario Diaz, Flavio P. Calmon, Lalitha Sankar.<br />
  IEEE International Symposium on Information Theory (ISIT), 2018. [Paper](https://haowang94.github.io/files/isit18b.pdf)
  
 - <font color="DarkRed">An Estimation-Theoretic View of Privacy</font>  
- <b>Hao Wang*</b>, Flavio P. Calmon.<br />
+ <b>Hao Wang</b>, Flavio P. Calmon.<br />
  Annual Allerton Conference on Communication, Control, and Computing, 2017. [Paper](https://haowang94.github.io/files/allerton17.pdf)
  
  
