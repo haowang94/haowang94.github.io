@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-News: I will be a postdoc researcher at MIT-IBM Watson AI Lab. 
+<font color="DarkRed">News:</font> I will be a postdoc researcher at MIT-IBM Watson AI Lab in the fall of 2022. Looking forward to the upcoming journey!
 
 I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by [Prof. Flavio P. Calmon](https://people.seas.harvard.edu/~flavio/). My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
 
