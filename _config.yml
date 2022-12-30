@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hao Wang"
   avatar           : "profile.jpg"
-  bio              : "Postdoc Researcher at MIT-IBM Watson AI Lab"
+  bio              : "Research Scientist at the MIT-IBM Watson AI Lab"
   location         : "Massachusetts, USA"
   employer         :
   pubmed           : # https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow
-  googlescholar    : "https://scholar.google.com/citations?user=uVCrs28AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=A3WtYhAAAAAJ"
   email            : hao@ibm.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
