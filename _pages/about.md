@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a postdoc researcher at the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by [Prof. Flavio P. Calmon](https://people.seas.harvard.edu/~flavio/). My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
+I am currently a research scientist at the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by [Prof. Flavio P. Calmon](https://people.seas.harvard.edu/~flavio/). My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
 
 Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics at the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
 
@@ -21,13 +21,17 @@ Publication
  <b>Hao Wang</b>.<br />
  PhD Thesis, Harvard University, 2022. [Paper](https://haowang94.github.io/files/thesis.pdf) 
  
+- <font color="DarkRed">Beyond Adult and COMPAS: Fair Multi-Class Prediction via Information Projection</font>
+ Wael Alghamdi, Hsiang Hsu, Haewon Jeong, <b>Hao Wang</b>, Winston Michalak, Shahab Asoodeh, Flavio P. Calmon.<br />
+ Advances in Neural Information Processing Systems (NeurIPS), 2022 <b>(Oral Presentation)</b>. [Paper](https://haowang94.github.io/files/neurips22.pdf) 
+ 
 - <font color="DarkRed">Generalization Bounds for Noisy Iterative Algorithms Using Properties of Additive Noise Channels</font>
  <b>Hao Wang</b>, Rui Gao, Flavio P. Calmon.<br />
- Journal of Machine Learning Research (accepted with minor revisions), 2022. [Paper](https://haowang94.github.io/files/jmlr22.pdf) 
+ Journal of Machine Learning Research, 2022. [Paper](https://haowang94.github.io/files/jmlr22.pdf) 
  
 - <font color="DarkRed">Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values</font>
  Haewon Jeong, <b>Hao Wang</b>, Flavio P. Calmon.<br />
- AAAI Conference on Artificial Intelligence (AAAI), 2022. [Paper](https://haowang94.github.io/files/aaai22.pdf) 
+ AAAI Conference on Artificial Intelligence (AAAI), 2022 <b>(Oral Presentation)</b>. [Paper](https://haowang94.github.io/files/aaai22.pdf) 
 
 - <font color="DarkRed">Analyzing the Generalization Capability of SGLD Using Properties of Gaussian Channels</font>
  <b>Hao Wang</b>, Yizhe Huang, Rui Gao, Flavio P. Calmon.<br />
