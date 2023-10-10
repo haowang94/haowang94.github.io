@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a research scientist at the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
+I am a research scientist at the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
 
 Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics at the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
 
@@ -17,6 +17,22 @@ Before joining Harvard University, I received my B.S. degree in Mathematics and 
 
 Publication
 ======
+- <font color="DarkRed">Post-processing Private Synthetic Data for Improving Utility on Selected Measures</font>
+ <b>Hao Wang</b>, Shivchander Sudalairaj, John Henning, Kristjan Greenewald, Akash Srivastava.<br />
+ Advances in Neural Information Processing Systems (NeurIPS), 2023. [Paper](https://arxiv.org/abs/2305.15538)
+
+- <font color="DarkRed">Aleatoric and Epistemic Discrimination: Fundamental Limits of Fairness Interventions</font>
+ <b>Hao Wang</b>, Luxi He, Rui Gao, Flavio Calmon.<br />
+ Advances in Neural Information Processing Systems (NeurIPS), 2023 <b>(Spotlight)</b>. [Paper](https://arxiv.org/abs/2301.11781)
+
+- <font color="DarkRed">Adapting Fairness Interventions to Missing Values</font>
+ Raymond Feng, Flavio Calmon,  <b>Hao Wang</b>.<br />
+ Advances in Neural Information Processing Systems (NeurIPS), 2023. [Paper](https://arxiv.org/abs/2305.19429)
+
+- <font color="DarkRed">Analyzing Generalization of Neural Networks through Loss Path Kernels</font>
+ Yilan Chen, Wei Huang, <b>Hao Wang</b>, Charlotte Loh, Akash Srivastava, Lam M. Nguyen, Tsui-Wei Weng.<br />
+ Advances in Neural Information Processing Systems (NeurIPS), 2023.
+
 - <font color="DarkRed">Information Theory for Trustworthy Machine Learning</font>
  <b>Hao Wang</b>.<br />
  PhD Thesis, Harvard University, 2022. [Paper](https://haowang94.github.io/files/thesis.pdf) 
