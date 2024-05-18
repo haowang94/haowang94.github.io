@@ -17,6 +17,10 @@ Before joining Harvard University, I received my B.S. degree in Mathematics and 
 
 Publication
 ======
+- <font color="DarkRed">Quantifying Representation Reliability in Self-Supervised Learning Models</font>
+Young-Jin Park, <b>Hao Wang</b>, Shervin Ardeshir, Navid Azizan.<br />
+ Conference on Uncertainty in Artificial Intelligence (UAI), 2024. [Paper](https://haowang94.github.io/files/uai24.pdf)
+
 - <font color="DarkRed">Post-processing Private Synthetic Data for Improving Utility on Selected Measures</font>
  <b>Hao Wang</b>, Shivchander Sudalairaj, John Henning, Kristjan Greenewald, Akash Srivastava.<br />
  Advances in Neural Information Processing Systems (NeurIPS), 2023. [Paper](https://haowang94.github.io/files/neurips23b.pdf)
