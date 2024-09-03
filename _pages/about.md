@@ -15,7 +15,7 @@ Before joining Harvard University, I received my B.S. degree in Mathematics and 
 
 [My CV](https://haowang94.github.io/files/CV.pdf)
 
-[In memory of Mario Diaz](https://haowang94.github.io/files/InmemoryofMario.pdf)
+<a href="https://haowang94.github.io/files/InmemoryofMario.pdf" style="color: black;">In memory of Mario Diaz</a>
 
 Publication
 ======
