@@ -15,6 +15,8 @@ Before joining Harvard University, I received my B.S. degree in Mathematics and 
 
 [My CV](https://haowang94.github.io/files/CV.pdf)
 
+[In memory of Mario Diaz](https://haowang94.github.io/files/InmemoryofMario.pdf)
+
 Publication
 ======
 - <font color="DarkRed">Quantifying Representation Reliability in Self-Supervised Learning Models</font>
