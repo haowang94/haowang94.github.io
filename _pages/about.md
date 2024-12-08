@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a research scientist at the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
+I am a research scientist at the RedHat AI Innovation Team and the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
 
 Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics at the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
 
