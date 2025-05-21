@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a research scientist at the RedHat AI Innovation Team and the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
+I am a principal research scientist at the RedHat AI Innovation Team and the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
 
 Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics at the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
 
@@ -19,6 +19,14 @@ Before joining Harvard University, I received my B.S. degree in Mathematics and 
 
 Publication
 ======
+- <font color="DarkRed">SQuat: Subspace-orthogonal KV Cache Quantization</font>
+ <b>Hao Wang</b>, Ligong Han, Kai Xu, Akash Srivastava.<br />
+ Pre-print, 2025. [Paper](https://arxiv.org/abs/2503.24358)
+
+- <font color="DarkRed">Unveiling the Secret Recipe: A Guide For Supervised Fine-Tuning Small LLMs</font>
+ Aldo Pareja, Nikhil Shivakumar Nayak, <b>Hao Wang</b>, Krishnateja Killamsetty, Shivchander Sudalairaj, Wenlong Zhao, Seungwook Han, Abhishek Bhandwaldar, Guangxuan Xu, Kai Xu, Ligong Han, Luke Inglis, Akash Srivastava.<br />
+ International Conference on Learning Representations (NeurIPS), 2025. [Paper](https://haowang94.github.io/files/iclr25.pdf)
+
 - <font color="DarkRed">Privacy without Noisy Gradients: Slicing Mechanism for Generative Model Training</font>
  Kristjan Greenewald, Yuancheng Yu, <b>Hao Wang</b>, Kai Xu.<br />
  Advances in Neural Information Processing Systems (NeurIPS), 2024. [Paper](https://haowang94.github.io/files/neurips24.pdf)
