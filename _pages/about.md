@@ -23,9 +23,13 @@ Publication
  <b>Hao Wang</b>, Ligong Han, Kai Xu, Akash Srivastava.<br />
  Pre-print, 2025. [Paper](https://arxiv.org/abs/2503.24358)
 
+- <font color="DarkRed">Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents</font>
+Ivoline C. Ngong, Swanand Kadhe, <b>Hao Wang</b>, Keerthiram Murugesan, Justin D. Weisz, Amit Dhurandhar, Karthikeyan Natesan Ramamurthy.<br />
+ Association for Computational Linguistics (ACL) Findings, 2025. [Paper](https://arxiv.org/abs/2502.18509)
+
 - <font color="DarkRed">Unveiling the Secret Recipe: A Guide For Supervised Fine-Tuning Small LLMs</font>
  Aldo Pareja, Nikhil Shivakumar Nayak, <b>Hao Wang</b>, Krishnateja Killamsetty, Shivchander Sudalairaj, Wenlong Zhao, Seungwook Han, Abhishek Bhandwaldar, Guangxuan Xu, Kai Xu, Ligong Han, Luke Inglis, Akash Srivastava.<br />
- International Conference on Learning Representations (NeurIPS), 2025. [Paper](https://haowang94.github.io/files/iclr25.pdf)
+ International Conference on Learning Representations (ICLR), 2025. [Paper](https://haowang94.github.io/files/iclr25.pdf)
 
 - <font color="DarkRed">Privacy without Noisy Gradients: Slicing Mechanism for Generative Model Training</font>
  Kristjan Greenewald, Yuancheng Yu, <b>Hao Wang</b>, Kai Xu.<br />
