@@ -21,7 +21,7 @@ Publication
 ======
 - <font color="DarkRed">SQuat: Subspace-orthogonal KV Cache Quantization</font>
  <b>Hao Wang</b>, Ligong Han, Kai Xu, Akash Srivastava.<br />
- Pre-print, 2025. [Paper](https://arxiv.org/abs/2503.24358)
+ Conference on Language Modeling (COLM), 2025. [Paper](https://arxiv.org/abs/2503.24358)
 
 - <font color="DarkRed">Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents</font>
 Ivoline C. Ngong, Swanand Kadhe, <b>Hao Wang</b>, Keerthiram Murugesan, Justin D. Weisz, Amit Dhurandhar, Karthikeyan Natesan Ramamurthy.<br />
