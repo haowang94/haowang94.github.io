@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a principal research scientist at the RedHat AI Innovation Team and the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. My research lies at the intersection of information theory, statistical learning theory, and optimization. My ultimate research goal is to design trustworthy machine learning algorithms with rigorous performance guarantees.
+I am a principal research scientist at the RedHat AI Innovation Team and the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics at the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
 
-Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics at the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
+I'm an information theorist focused on building reliable and accessible machine learning systems. My research centers on three core areas: efficient foundation models, privacy-preserving data sharing, and trustworthy machine learning. I believe that theory, data science, and engineering are equally important in guiding the development of practical algorithms. From data analysis, we uncover patterns in the real world; through theory, we understand and generalize these patterns; and with engineering, we translate both into robust, deployable systems.
 
 [My CV](https://haowang94.github.io/files/CV.pdf)
 
@@ -21,7 +21,7 @@ Publication
 ======
 - <font color="DarkRed">SQuat: Subspace-orthogonal KV Cache Quantization</font>
  <b>Hao Wang</b>, Ligong Han, Kai Xu, Akash Srivastava.<br />
- Conference on Language Modeling (COLM), 2025. [Paper](https://arxiv.org/abs/2503.24358)
+ Conference on Language Modeling (COLM), 2025. [Paper](https://arxiv.org/abs/2503.24358), [Code](https://github.com/Red-Hat-AI-Innovation-Team/SQuat), [Project page](https://ai-innovation.team/squat/)
 
 - <font color="DarkRed">Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents</font>
 Ivoline C. Ngong, Swanand Kadhe, <b>Hao Wang</b>, Keerthiram Murugesan, Justin D. Weisz, Amit Dhurandhar, Karthikeyan Natesan Ramamurthy.<br />
