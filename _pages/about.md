@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 
-I am a principal research scientist at the RedHat AI Innovation Team and the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics at the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
+I am a Senior principal research scientist at the RedHat AI Innovation Team and the MIT-IBM Watson AI Lab. I received PhD in Applied Mathematics of the School of Engineering and Applied Sciences (SEAS) at Harvard University. I was fortunate to be advised by Prof. Flavio P. Calmon. Before joining Harvard University, I received my B.S. degree in Mathematics and Applied Mathematics at the University of Science and Technology of China (USTC) in 2016. I was awarded the 35th Guo Moruo Scholarship which is the highest honor at USTC.
 
-I'm an information theorist focused on building reliable and accessible machine learning systems. My research centers on three core areas: efficient foundation models, privacy-preserving data sharing, and trustworthy machine learning. I believe that theory, data science, and engineering are equally important in guiding the development of practical algorithms. From data analysis, we uncover patterns in the real world; through theory, we understand and generalize these patterns; and with engineering, we translate both into robust, deployable systems.
+I'm an information theorist working to build efficient and reliable machine learning systems. My research aims to uncover the fundamental limits underlying real-world mechanisms and to translate these insights into principles that guide the design of practical algorithms. As a machine learning researcher, I focus on efficient foundation models, privacy-preserving data sharing, and trustworthy machine learning. Rather than focusing merely on optimizing benchmark metrics, my goal is to ensure that advanced machine learning techniques are broadly accessible so that everyone can benefit from them and ultimately contribute to their evolution.
 
 [My CV](https://haowang94.github.io/files/CV.pdf)
-
-<a href="https://haowang94.github.io/files/InmemoryofMario.pdf" style="color: black;">In memory of Mario Diaz</a>
 
 Publication
 ======
