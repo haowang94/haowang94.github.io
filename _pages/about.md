@@ -22,7 +22,7 @@ Publication
  Conference on Language Modeling (COLM), 2025. [Paper](https://arxiv.org/abs/2503.24358), [Code](https://github.com/Red-Hat-AI-Innovation-Team/SQuat), [Project page](https://ai-innovation.team/squat/)
 
 - <font color="DarkRed">Know What You Don't Know: Uncertainty Calibration of Process Reward Models</font>
- Young-Jin Park, Kristjan Greenewald\textsuperscript, Kaveh Alim, <b>Hao Wang</b>, Navid Azizan.<br />
+ Young-Jin Park, Kristjan Greenewald, Kaveh Alim, <b>Hao Wang</b>, Navid Azizan.<br />
  Advances in Neural Information Processing Systems (NeurIPS), 2025. [Paper](https://haowang94.github.io/files/neurips25.pdf)
 
 - <font color="DarkRed">Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents</font>
