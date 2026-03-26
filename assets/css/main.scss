@@ -39,3 +39,44 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Blog post styles */
+.page__content {
+  .blog-date {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 1.5em;
+    font-size: 0.95em;
+  }
+}
+
+[permalink="/blog/"] .page__content,
+.layout--single .page__content {
+  p {
+    font-size: 1.05em;
+    line-height: 1.8;
+  }
+
+  blockquote {
+    border-left: 4px solid #494e52;
+    padding-left: 1em;
+    margin-left: 0;
+    font-style: italic;
+    color: #555;
+  }
+
+  strong {
+    display: inline;
+  }
+
+  h4, h3 {
+    margin-top: 1.5em;
+  }
+
+  img {
+    max-width: 100%;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+    margin-bottom: 1em;
+  }
+}

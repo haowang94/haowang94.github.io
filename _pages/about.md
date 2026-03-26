@@ -15,6 +15,10 @@ I'm an information theorist working to build efficient and reliable machine lear
 
 [My CV](https://haowang94.github.io/files/CV.pdf)
 
+Blog
+======
+- [Some Thoughts on the TurboQuant Buzz on Social Media](/blog/turboquant/)
+
 Publication
 ======
 - <font color="DarkRed">SQuat: Subspace-orthogonal KV Cache Quantization</font>
