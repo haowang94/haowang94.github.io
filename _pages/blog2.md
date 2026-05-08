@@ -6,7 +6,7 @@ author_profile: true
 layout: single
 ---
 
-<p class="blog-date">May 2026</p>
+<p class="blog-date">May 2026 · 4 min read</p>
 
 For decades, software engineering had a high barrier to entry. Building production software required years of training across programming languages, frameworks, databases, architecture, testing, and deployment.
 
@@ -20,13 +20,11 @@ But early evidence suggests otherwise.
 
 This points to an uncomfortable truth: AI coding tools do not automatically make everyone the same level of engineer. They amplify differences in a user's ability to specify, evaluate, and steer.
 
-**The new bottleneck is not writing code. It is knowing what to ask for.**
-
 <img src="/images/intent_to_spec.png" alt="From intent to specification" style="max-width: 600px; width: 100%;">
 
 ---
 
-**AI Has Lowered the Cost of Implementation, but Not the Cost of Specification**
+## AI Has Lowered the Cost of Implementation, but Not the Cost of Specification
 
 Traditional software development has a well-established pipeline.
 
@@ -42,7 +40,7 @@ Non-technical users often have not thought through these issues. When they give 
 
 ---
 
-**The Missing Layer: Spec Collaboration**
+## The Missing Layer: Spec Collaboration
 
 To make AI coding tools useful to more people, we need better spec collaborators.
 
@@ -61,9 +59,9 @@ How well do existing coding agents help users turn vague ideas into executable s
 
 ---
 
-**Benchmarking the Spec-Writing Ability of Coding Agents**
+## Benchmarking the Spec-Writing Ability of Coding Agents
 
-<img src="/images/specbench.jpg" alt="Pipeline of SpecBench" style="max-width: 600px; width: 100%;">
+<img src="/images/specbench.jpg" alt="Pipeline of SpecBench" style="max-width: 800px; width: 100%;">
 <p><em>Figure 1. Pipeline of SpecBench.</em></p>
 
 We introduce **SpecBench**, a benchmark for evaluating how well AI agents collaborate with users during software specification design. Each task provides a high-level software request (the user's intent), the user's prior conversation history, and a limited budget for asking clarifying questions.
@@ -74,7 +72,7 @@ SpecBench evaluates agents along two dimensions:
 
 - **Specification drafting.** The agent produces a structured spec sheet containing sections such as project overview, core features, constraints, and success metrics. The resulting spec is evaluated on coverage, precision, consistency, insightfulness, and readability.
 
-<img src="/images/exp_fig1.png" alt="Preference elicitation results across agents" style="max-width: 600px; width: 100%;">
+<img src="/images/exp_fig1.png" alt="Preference elicitation results across agents" style="max-width: 800px; width: 100%;">
 <p><em>Figure 2. We evaluate Claude Code, Gemini CLI, Cursor CLI, and Buddy on how well they align with users' preferences when making software design decisions.</em></p>
 
 Our results show that existing agents are increasingly capable as solo developers, but still have significant room to improve as collaborative peers.
@@ -85,9 +83,9 @@ Other agents, such as Claude Code and Cursor CLI (with GPT-5.4-mini), typically 
 
 ---
 
-**Buddy: A User-Assistant Agent for Spec Sheet Writing**
+## Buddy: A User-Assistant Agent for Spec Sheet Writing
 
-<img src="/images/buddy.jpg" alt="Buddy agent workflow" style="max-width: 600px; width: 100%;">
+<img src="/images/buddy.jpg" alt="Buddy agent workflow" style="max-width: 800px; width: 100%;">
 <p><em>Figure 3. Buddy is an agent that works with the user to create a structured spec sheet based on their needs.</em></p>
 
 We introduce **Buddy**, a user-assistant agent designed specifically for collaborative specification writing.
@@ -104,7 +102,7 @@ Buddy's workflow is inspired by classical morphological analysis, which decompos
 - For unresolved decisions, Buddy **strategically plans** which questions to ask the real user.
 - Finally, it incorporates the user's responses to refine, review, and complete the final specification document.
 
-<img src="/images/exp_fig2.png" alt="Spec sheet quality comparison" style="max-width: 600px; width: 100%;">
+<img src="/images/exp_fig2.png" alt="Spec sheet quality comparison" style="max-width: 800px; width: 100%;">
 <p><em>Figure 4. We compare Claude Code, Gemini CLI, Cursor CLI, and Buddy in terms of spec sheet quality across different evaluation axes (left), the number of times they query the user (middle), and head-to-head win rates (right).</em></p>
 
 Buddy queries the user significantly fewer times than other agents, while still achieving the highest evaluation scores and outperforming all baselines in head-to-head comparisons. This is because Buddy first uses simulated users to resolve many design decisions, leaving only the most uncertain questions for the actual user.
