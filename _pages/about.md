@@ -17,6 +17,7 @@ I'm an information theorist working to build efficient and reliable machine lear
 
 Blog
 ======
+- [The Next Bottleneck for Coding Agents Isn't Code. It's Knowing What to Ask For.](/blog/specbench/)
 - [Some Thoughts on the TurboQuant Buzz on Social Media](/blog/turboquant/)
 
 Publication
