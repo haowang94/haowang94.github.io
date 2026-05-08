@@ -106,3 +106,9 @@ Buddy's workflow is inspired by classical morphological analysis, which decompos
 <p><em>Figure 4. We compare Claude Code, Gemini CLI, Cursor CLI, and Buddy in terms of spec sheet quality across different evaluation axes (left), the number of times they query the user (middle), and head-to-head win rates (right).</em></p>
 
 Buddy queries the user significantly fewer times than other agents, while still achieving the highest evaluation scores and outperforming all baselines in head-to-head comparisons. This is because Buddy first uses simulated users to resolve many design decisions, leaving only the most uncertain questions for the actual user.
+
+---
+
+## What's Next?
+
+We see several opportunities for future work. First, this work summarizes prior conversations to extract transferable user-specific information, but more dynamic memory mechanisms may better capture evolving user preferences in software development. Second, SpecBench uses LLMs to simulate users. Although LLM-based users enable controlled and scalable evaluation, studies with real users would provide a stronger test of whether agents ask useful questions and produce specifications that users actually find useful. Third, specification agents could be integrated more tightly with downstream coding workflows. A spec sheet is not merely an end product; it can also guide implementation and evaluation. Future agents could use the spec to generate real software and let real users assess whether the final software matches their intent.
