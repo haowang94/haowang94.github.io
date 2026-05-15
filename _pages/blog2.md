@@ -117,4 +117,4 @@ We argue that a critical part of this harness is still missing: a layer that col
 
 ---
 
-Please check out our [paper](https://haowang94.github.io/files/specbench.pdf), [code](https://github.com/haowang94/intent2spec), and [data](https://huggingface.co/datasets/haowang94/specbench).
+If you're interested in learning more, please check out our 📄 [paper](https://haowang94.github.io/files/specbench.pdf), 💻 [code](https://github.com/haowang94/intent2spec), and 🤗 [data](https://huggingface.co/datasets/haowang94/specbench).

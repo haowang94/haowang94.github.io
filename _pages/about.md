@@ -22,6 +22,10 @@ Blog
 
 Publication
 ======
+- <font color="DarkRed">Turning Intent into Specifications: A Benchmark and an Interactive User-Assistant Agent</font>
+ <b>Hao Wang</b>, Ligong Han, Kai Xu, Akash Srivastava.<br />
+ Preprint, 2026. [Paper](https://haowang94.github.io/files/specbench.pdf)
+
 - <font color="DarkRed">SQuat: Subspace-orthogonal KV Cache Quantization</font>
  <b>Hao Wang</b>, Ligong Han, Kai Xu, Akash Srivastava.<br />
  Conference on Language Modeling (COLM), 2025. [Paper](https://arxiv.org/abs/2503.24358), [Code](https://github.com/Red-Hat-AI-Innovation-Team/SQuat), [Project page](https://ai-innovation.team/squat/)
