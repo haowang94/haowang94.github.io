@@ -24,7 +24,7 @@ Publication
 ======
 - <font color="DarkRed">Turning Intent into Specifications: A Benchmark and an Interactive User-Assistant Agent</font>
  <b>Hao Wang</b>, Ligong Han, Kai Xu, Akash Srivastava.<br />
- Preprint, 2026. [Paper](https://haowang94.github.io/files/specbench.pdf)
+ Preprint, 2026. [Paper](https://haowang94.github.io/files/specbench.pdf), [Code](https://github.com/haowang94/intent2spec), [Data](https://huggingface.co/datasets/haowang94/specbench)
 
 - <font color="DarkRed">SQuat: Subspace-orthogonal KV Cache Quantization</font>
  <b>Hao Wang</b>, Ligong Han, Kai Xu, Akash Srivastava.<br />
