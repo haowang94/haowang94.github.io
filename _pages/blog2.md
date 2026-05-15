@@ -114,3 +114,7 @@ Buddy queries the user significantly fewer times than other agents, while still 
 [Anthropic’s recent post](https://www.anthropic.com/engineering/harness-design-long-running-apps) shows that better coding agents require more than better models: they need a harness around them. In their setup, a planner expands a short prompt into a product spec, the generator and evaluator agree on what “done” means before coding begins, and the evaluator tests the running app against concrete criteria.
 
 We argue that a critical part of this harness is still missing: a layer that collaborates with users before and during software development. SpecBench and Buddy are small steps toward filling this gap, but much needs to be done. This layer should maintain evolving memory to better understand each user, help users articulate their ideas, teach them how to use coding agents and new features more effectively, and ultimately improve over time while helping users improve as well.
+
+---
+
+Please check out our [paper](https://haowang94.github.io/files/specbench.pdf), [code](https://github.com/haowang94/intent2spec), and [data](https://huggingface.co/datasets/haowang94/specbench).
